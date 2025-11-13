@@ -16,8 +16,9 @@
 ---
 ## 📊 GitHub Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=lovekittenz&show_icons=true&theme=rose_pine&title_color=c084fc&icon_color=c084fc&text_color=ede9fe&bg_color=0d1117)
-<img src="https://pa1.aminoapps.com/7375/a5065ca938936eaf4e1e28a8e87098bc5d9ed29fr1-320-320_hq.gif" width="150" align="right">
+
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lovekittenz&layout=compact&theme=rose_pine&title_color=c084fc&text_color=ede9fe&bg_color=0d1117)
+<img src="https://pa1.aminoapps.com/7375/a5065ca938936eaf4e1e28a8e87098bc5d9ed29fr1-320-320_hq.gif" width="150" align="right">
 ---
 ## 💼 Tech Stack
 ![Python](https://img.shields.io/badge/Python-c084fc?style=for-the-badge&logo=python&logoColor=white)
